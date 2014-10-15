@@ -1,0 +1,24 @@
+{
+  "name": "child-exec",
+  "version": "1.0.0",
+  "description": "A simple node module for exec child proccess",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binnng/child-exec.git"
+  },
+  "keywords": [
+    "exec",
+    "co-exec",
+    "node-exec"
+  ],
+  "author": "imbinnng@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binnng/child-exec/issues"
+  },
+  "homepage": "https://github.com/binnng/child-exec"
+}
